@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @LizaSnizhko
-- 🎓 I’m a student at Kharkiv University in Ukraine and I study software engeneering. 
-- 👀 I’m interested in website building 
+- 🎓 I’m a Ukrainian student. 
 - 🌱 I’m currently learning C# (ASP.NET)
-- 💞️ I’m looking to collaborate on different C# projects
-- 📫 How to reach me: Telegram liza_snh
+- 📫 LinkedIn: https://www.linkedin.com/in/yelyzaveta-snizhko/
 
 <!---
 LizaSnizhko/LizaSnizhko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
