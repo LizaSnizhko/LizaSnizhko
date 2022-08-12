@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LizaSnizhko
 - 🎓 I’m a Ukrainian student. 
-- 🌱 I’m currently learning C# (ASP.NET)
+- 🌱 I’m currently learning C# 
 - 📫 LinkedIn: https://www.linkedin.com/in/yelyzaveta-snizhko/
 
 <!---
