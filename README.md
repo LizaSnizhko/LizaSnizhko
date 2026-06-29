@@ -1,8 +1,7 @@
-<!---
-- 🎓 I’m a Ukrainian student. 
-- 🌱 I’m currently learning C# 
-- 📫 LinkedIn: https://www.linkedin.com/in/yelyzaveta-snizhko/
+Hiiii
 
-LizaSnizhko/LizaSnizhko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐️ This is Liza (she/her), an Informatics student at the University of Washington Seattle
+
+🌱 I focus on data analysis, visualization, and building projects with real-world impact using SQL, R, Python, and BI tools
+
+🌸 Email: snizhko@uw.edu
